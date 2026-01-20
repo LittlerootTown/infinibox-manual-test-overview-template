@@ -1,0 +1,5 @@
+{
+  "name": "InfiniBox Manual Test Overview - v0.1",
+  "description": "A high-fidelity monitoring dashboard for manual testing teams, providing real-time visibility into machine status, capacity, performance, and sanity results.",
+  "requestFramePermissions": []
+}
